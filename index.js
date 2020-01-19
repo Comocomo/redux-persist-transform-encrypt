@@ -1,1 +1,1 @@
-module.exports = require('./lib/sync');
+module.exports = require('./src/sync');
