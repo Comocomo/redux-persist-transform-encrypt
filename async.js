@@ -1,1 +1,1 @@
-module.exports = require('./lib/async');
+module.exports = require('./src/async');
