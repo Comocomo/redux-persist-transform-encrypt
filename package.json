@@ -36,7 +36,9 @@
   "dependencies": {
     "crypto-js": "^3.1.9-1",
     "json-stringify-safe": "^5.0.1",
-    "readable-stream": "^2.2.6"
+    "readable-stream": "^2.2.6",
+    "ramda": "0.25.0",
+    "seamless-immutable": "7.1.4"
   },
   "devDependencies": {
     "babel-cli": "^6.24.0",
